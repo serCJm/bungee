@@ -4,3 +4,4 @@ node_modules
 config.ts
 jokes.ts
 .vscode
+db.ts
